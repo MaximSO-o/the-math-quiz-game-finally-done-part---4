@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: red;
+}
+.player_login{
+    border-radius:20px;
+    background-color: red;
+    height: 150px;
+}
+.player_name{
+    width: 1000px;
+}
+#best_math_quiz{
+    font-size: 50px;
+    font-weight: bold;
+    color: white
+}
+.login_heading{
+    font-weight:bold;
+    color:white
+}
+#login_button{
+background-color: lightskyblue;
+font-size:15px;
+font-weight: bold;
+height:25px;
+width:125px;
+border-radius:5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid red;
+padding: 10px;
+float: none;
+text-align: left;
+}
